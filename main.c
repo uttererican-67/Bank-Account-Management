@@ -3,6 +3,7 @@
 int main(){
     printf("hi");
     printf("hi heloo");
-    printf("sithhhhhh");
-  return 0;
+    printf("hello mtf");
+    printf("hello mmmmm");
+    return 0;
 }
