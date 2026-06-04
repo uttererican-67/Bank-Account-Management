@@ -5,5 +5,6 @@ int main(){
     printf("hi heloo");
     printf("hello mtf");
     printf("hello mmmmm");
+    printf("new");
     return 0;
 }
