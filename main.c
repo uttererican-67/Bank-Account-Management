@@ -19,7 +19,7 @@ int findAccount(int num, int pin) {
     return -1;//if found return i if not then just return -1
 }
 
-//tranfer acc
+//transfer acc
 int findByNum(int num) {
     for (int i = 0; i < total; i++) {
         if (accNumber[i] == num) {
@@ -76,7 +76,7 @@ int main() {
             }
 
         } else if (choice == 2 || choice == 3) {
-            //Deposit (choice 2) or Withdraw (choice 3)
+            
             // Logs in first, then asks for an amount
             i = login();
             if (i == -1) continue;
