@@ -136,5 +136,6 @@ int main() {
     } while (choice != 6);
 
     printf("Thank you!\n");
+    printf("67");
     return 0;
 }
